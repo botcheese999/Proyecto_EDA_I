@@ -1,0 +1,53 @@
+{
+  "P0001": {
+    "datos_fijos": {
+      "__type__": "tuple",
+      "data": [
+        "P0001",
+        "Dr. Garcia",
+        "especialista",
+        "Cardiologia"
+      ]
+    },
+    "datos_mutables": {
+      "turno": "mañana",
+      "telefono": "",
+      "activo": true
+    },
+    "nivel_acceso": 3,
+    "permisos": {
+      "__type__": "set",
+      "data": [
+        "deshacer_medicacion",
+        "escribir_historial",
+        "leer_historial",
+        "recetar",
+        "ver_reportes"
+      ]
+    }
+  },
+  "P0002": {
+    "datos_fijos": {
+      "__type__": "tuple",
+      "data": [
+        "P0002",
+        "Enf. Ruiz",
+        "enfermera",
+        "General"
+      ]
+    },
+    "datos_mutables": {
+      "turno": "mañana",
+      "telefono": "",
+      "activo": true
+    },
+    "nivel_acceso": 1,
+    "permisos": {
+      "__type__": "set",
+      "data": [
+        "leer_historial",
+        "registrar_signos_vitales"
+      ]
+    }
+  }
+}

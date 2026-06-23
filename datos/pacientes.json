@@ -1,0 +1,62 @@
+{
+  "12345678": {
+    "datos_fijos": {
+      "__type__": "tuple",
+      "data": [
+        "12345678",
+        "O+",
+        "1990-05-15",
+        "Juan Perez"
+      ]
+    },
+    "datos_mutables": {
+      "telefono": "555-1234",
+      "direccion": "",
+      "email": "",
+      "contacto_emergencia": ""
+    },
+    "alergias": {
+      "__type__": "set",
+      "data": [
+        "latex",
+        "penicilina"
+      ]
+    },
+    "historial": [
+      {
+        "fecha": "2026-05-13 10:56:21",
+        "tipo": "consulta",
+        "medico_id": "P0001",
+        "diagnostico": "Gripe estacional",
+        "medicacion": [
+          "Amoxicilina"
+        ],
+        "notas": "Reposo 3 dias"
+      }
+    ]
+  },
+  "87654321": {
+    "datos_fijos": {
+      "__type__": "tuple",
+      "data": [
+        "87654321",
+        "A+",
+        "1985-03-20",
+        "Maria Lopez"
+      ]
+    },
+    "datos_mutables": {
+      "telefono": "",
+      "direccion": "",
+      "email": "",
+      "contacto_emergencia": ""
+    },
+    "alergias": {
+      "__type__": "set",
+      "data": [
+        "penicilina"
+      ]
+    },
+    "historial": []
+  }
+}
