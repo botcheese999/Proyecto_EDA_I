@@ -21,10 +21,16 @@
  *    ./sistema_hospitalario
  */
 
-#include "SistemaHospitalario.h"
+#ifdef _WIN32
+#include <windows.h>
+ #include "SistemaHospitalario.h"
 #include <iostream>
+#endif
 
 int main() {
+    #ifdef _WIN32
+    SetConsoleOutputCP(CP_UTF8);
+    #endif
     // ── CRITERIO 2: Se instancia la fachada que orquesta todo el sistema ──
     SistemaHospitalario sistema;
 
