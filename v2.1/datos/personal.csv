@@ -1,0 +1,5 @@
+id,nombre,rol,especialidad,turno,telefono,activo
+P0001,Dr. Juan Martinez,director,Administracion,mañana,955111222,1
+P0002,Dra. Laura Sanchez,especialista,Cardiologia,mañana,955333444,1
+P0003,Dr. Roberto Diaz,medico_general,General,tarde,955555666,1
+P0004,Enf. Carmen Soto,enfermera,General,noche,955777888,1

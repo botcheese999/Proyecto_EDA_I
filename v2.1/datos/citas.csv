@@ -1,0 +1,7 @@
+idCita,dniPaciente,idMedico,fecha,estado,motivo,notas,medicacion
+C0001,12345678,P0002,2025-06-20,completada,Control cardiologico,Paciente estable,Losartan;Aspirina
+C0002,87654321,P0003,2025-06-21,pendiente,Dolor de cabeza,,
+C0003,11223344,P0002,2025-06-22,cancelada,Control rutinario,Cancelada por paciente,
+C0004,55667788,P0003,2025-06-23,pendiente,Revision general,,Paracetamol
+C0005,99887766,P0003,2026-06-29,pendiente,Consulta de prueba V2.1,,
+C0006,99887766,P0003,2026-06-29,pendiente,Consulta de prueba V2.1,,

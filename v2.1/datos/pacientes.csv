@@ -1,0 +1,6 @@
+dni,nombre,tipoSangre,fechaNacimiento,telefono,direccion,email,contactoEmergencia,alergias
+11223344,Ana Torres Vega,AB+,1992-08-10,999000111,Calle Sol 789,ana@email.com,Pedro Torres,
+12345678,Maria Garcia Lopez,O+,1990-05-15,987654321,Av. Lima 123,maria.nueva@email.com,Juan Garcia,aspirina;penicilina
+55667788,Luis Mendoza Rios,B-,1988-12-01,955000222,Av. Mar 101,luis@email.com,Rosa Mendoza,penicilina;sulfamidas
+87654321,Carlos Perez Ruiz,A+,1985-03-20,912345678,Jr. Cusco 456,carlos@email.com,Ana Perez,ibuprofeno
+99887766,Sofia Ramirez Cruz,O-,1995-04-25,944000333,Jr. Luna 202,sofia@email.com,Miguel Ramirez,
